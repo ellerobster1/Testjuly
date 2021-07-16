@@ -1,7 +1,7 @@
 import pandas as pd
 print(pd.read_csv("bestsellers with categories.csv"))
 
-if bedroom > 5:
-    print("Big House")
+if user rating > 4.7:
+    print("Must Read")
 
-print("Medium")
+print("good Score")
