@@ -1,2 +1,7 @@
 import pandas as pd
 print(pd.read_csv("daft_v_2.csv")
+
+if bedroom > 5:
+    print("Big House")
+
+print("Medium")
